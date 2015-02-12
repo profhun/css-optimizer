@@ -1,0 +1,15 @@
+html {
+	color: #000000;
+}
+
+strong{
+	font-weight: bold;
+}
+
+.class{
+	display: block;
+}
+
+#node-id {
+	border: 1px solid black;
+}

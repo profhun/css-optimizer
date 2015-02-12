@@ -1,0 +1,21 @@
+html {
+	color: #000000; margin: 1px 1px 1px 1px;
+}
+
+strong{
+	font-weight: bold;
+	line-height: 20px;
+}
+
+.class{
+	display: block;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+#node-id {
+	border: 1px solid black;
+	min-height: 100px;
+	width: 48%;
+	color: red;
+}

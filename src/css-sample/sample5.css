@@ -1,0 +1,57 @@
+html {
+	color: #000000; /* little comment here hehehe */ margin: 1px 1px 1px 1px;
+}
+
+//comment 0
+strong{
+	font-weight: bold;
+	line-height: 20px;
+}
+
+/*
+
+	This is a comment block
+
+*/
+
+/**
+ * long comment block
+ *
+ * with more text
+ */
+.class{
+	display: /*inline*/block;
+	cursor: pointer;
+	text-decoration: underline;
+	margin:5px;
+}
+
+.class{
+	margin: 10px;
+}
+
+#node-id {
+	border: 1px solid black;
+	min-height: 100px;
+	//comment 1
+	//comment 2
+	width: 48%;
+	//comment 3
+	color: red;
+	//comment 4
+}
+
+#node-id.class
+{
+	width: auto;
+}
+
+#node-id .class
+{
+	max-width: 100%;
+}
+
+#node-id .class > div
+{
+	max-width: 60%;
+}
